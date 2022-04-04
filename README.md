@@ -1,7 +1,7 @@
 # Project: Product Analysis
 
 
-## Available Scripts
+## Live website: 
 
 In the project directory, you can run:
 
