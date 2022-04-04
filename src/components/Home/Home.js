@@ -45,7 +45,7 @@ const Home = () => {
         </div>
         <Link to="/reviews" element={<Reviews></Reviews>}>
           <div className="flex justify-center items-center h-100">
-            <button className="rounded-full bg-green-200 p-1 w-40 text-sm ml-10">
+            <button className="rounded-full bg-green-200 p-1 w-40 text-sm ml-10 mt-5">
               See all Reviews
             </button>
           </div>
