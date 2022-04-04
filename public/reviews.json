@@ -1,0 +1,38 @@
+[
+  {
+    "img": "https://randomuser.me/api/portraits/men/9.jpg",
+    "name": "Martyn Fennell",
+    "review": "Eimantas made the deal a pleasureable experience and was really knowledgeable about the car and its workings - than you. ",
+    "rating": 4.5
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/79.jpg",
+    "name": "Caroline Chapman",
+    "review": "Outstanding customer service, especially from Louis. Car wasn't meant to be ready until October but was 7 months early.",
+    "rating": 5.0
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/72.jpg",
+    "name": "Laurence Poloni",
+    "review": " Hand over was easy and informative and Louis was on hand when I had trouble with the App and got it all sorted asap. Wound highly recommend.",
+    "rating": 5.0
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/88.jpg",
+    "name": "Robert Allen",
+    "review": "Second new car from Grange. Excellent friendly service Loved the presentation of the keys a lovely touch made the whole experience that extra bit special.",
+    "rating": 4.5
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/34.jpg",
+    "name": "Mark Scholtes",
+    "review": "Excellent service from start to finish, Jack was brilliant answering any of our questions nothing to much trouble. In fact all staff were warm and friendly making us feel very welcome.",
+    "rating": 5.0
+  },
+  {
+    "img": "https://randomuser.me/api/portraits/men/51.jpg",
+    "name": "Amanda Peacock",
+    "review": "Eimantas in particular was extremely helpful, nothing seemed too much trouble and he was very quick to respond to any e-mail queries.",
+    "rating": 4.0
+  }
+]
